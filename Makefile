@@ -1,4 +1,3 @@
-# Compiler
 COBC = cobc
 CC = g++
 
