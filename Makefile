@@ -1,4 +1,3 @@
-COBC = cobc
 CC = g++
 
 # Directories
