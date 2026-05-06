@@ -1,4 +1,3 @@
-[![Build](https://github.com/meyfa/CobolCraft/actions/workflows/build.yml/badge.svg)](https://github.com/meyfa/CobolCraft/actions/workflows/build.yml)
 [![Test](https://github.com/meyfa/CobolCraft/actions/workflows/test.yml/badge.svg)](https://github.com/meyfa/CobolCraft/actions/workflows/test.yml)
 
 A Minecraft server written in COBOL. It supports Minecraft 1.21.4 (the latest version at time of writing).
