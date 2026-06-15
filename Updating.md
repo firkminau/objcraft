@@ -77,4 +77,3 @@ It is not required that the official server can load world data written by Cobol
 ## Tips and Tricks
 
 It can be helpful to look at past version update commits to see what changes were made.
-This list is not exhaustive - use your best judgment. Good luck!
