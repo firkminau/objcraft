@@ -1,4 +1,3 @@
-CC = g++
 
 # Directories
 ROOT_DIR = .
