@@ -1,4 +1,3 @@
-
 # Directories
 ROOT_DIR = .
 OBJECTS_DIR = out
